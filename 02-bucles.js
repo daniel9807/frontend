@@ -28,7 +28,7 @@ console.log("+ bucle: for");
 let limitefor =20;
 
 for (let index = 0; index < limitefor; index++) {
-    let randomfor = Number.parseInt((Math.random()*10),10);
+    let randomfort = Number.parseInt((Math.random()*10),10);
     console.log("indice for :" +index);
     console.log("random :" +index);
 }
