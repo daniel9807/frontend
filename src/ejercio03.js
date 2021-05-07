@@ -1,5 +1,4 @@
-
-var numero,centena,decena,unidad; 
+var numero, centena, decena, unidad; 
 numero = parseInt(prompt("ingrese un numero"));
                 
     centena = Math.floor(numero/100);
