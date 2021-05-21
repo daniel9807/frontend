@@ -2,7 +2,7 @@ import React, { useState } from "react"
 
 console.log("componente Contador o Acumulador con funciones");
 const ContadorApp = ({valor_contador}) => {
-    console.log (".:contadorApp:. ");
+    console.log (".:contadorApp:.");
     
     const [contador, setcontador] = useState(valor_contador);
 
